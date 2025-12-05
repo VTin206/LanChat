@@ -1,0 +1,11 @@
+D:\HocTap\HK3\LTTQ\BasicChat\bin\Debug\BasicChat.exe.config
+D:\HocTap\HK3\LTTQ\BasicChat\bin\Debug\BasicChat.exe
+D:\HocTap\HK3\LTTQ\BasicChat\bin\Debug\BasicChat.pdb
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.csproj.AssemblyReference.cache
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.Form1.resources
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.Properties.Resources.resources
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.csproj.GenerateResource.cache
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.csproj.CoreCompileInputs.cache
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.exe
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.pdb
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.exe.config
