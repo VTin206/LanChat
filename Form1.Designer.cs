@@ -1,4 +1,4 @@
-﻿namespace BasicChat
+namespace BasicChat
 {
     partial class Form1
     {
@@ -216,4 +216,3 @@
         private System.Windows.Forms.Label lblStatus;
     }
 }
-
