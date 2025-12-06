@@ -9,3 +9,6 @@ D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.csproj.CoreCompileInputs.cache
 D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.exe
 D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.pdb
 D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.exe.config
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.DangNhap.resources
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.DangKy.resources
+D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.QuenMatKhau.resources
