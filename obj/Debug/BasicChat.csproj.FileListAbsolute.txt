@@ -12,3 +12,36 @@ D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.exe.config
 D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.DangNhap.resources
 D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.DangKy.resources
 D:\HocTap\HK3\LTTQ\BasicChat\obj\Debug\BasicChat.QuenMatKhau.resources
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\BasicChat.exe.config
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\BasicChat.exe
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\BasicChat.pdb
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Memory.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Memory.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.exe.config
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.DangKy.resources
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.DangNhap.resources
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.Form1.resources
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.QuenMatKhau.resources
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.csproj.Up2Date
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.exe
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\obj\Debug\BasicChat.pdb
