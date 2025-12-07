@@ -17,6 +17,24 @@ namespace BasicChat
             InitializeComponent();
         }
 
+        private void btnDangKy_Click(object sender, EventArgs e)
+        {
+            string username = txtName.Text.Trim();
+            string password = txtPassword .Text.Trim();
+            string email = txtEmail.Text.Trim();
+
+            DatabaseHelper db = new DatabaseHelper();
+
+            bool isSuccess = db.RegisterUser(username, password, email);
+            if (isSuccess)
+            {
+                MessageBox.Show("Đăng ký thành công! Bạn có thể đăng nhập ngay.");
+            }
+            else
+            {
+                MessageBox.Show("Tên đăng nhập đã tồn tại, vui lòng chọn tên khác.");
+            }
+        }   
         private void lblExit_Click(object sender, EventArgs e)
         {
             Close();

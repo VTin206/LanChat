@@ -20,16 +20,25 @@ namespace BasicChat
         private NetworkStream _stream;
         private CancellationTokenSource _cts = new CancellationTokenSource();
         private readonly object _streamLock = new object();
+        private string _currentUser;
 
-        public Form1()
+        // Sửa lại hàm khởi tạo để nhận tham số username
+        public Form1(string username)
         {
             InitializeComponent();
+
+            // 1. Lưu tên người dùng lại để dùng sau này
+            _currentUser = username;
+
+            // 2. Hiển thị tên lên tiêu đề cửa sổ cho đẹp
+            this.Text = "LanChat - Xin chào: " + _currentUser;
+
+            // 3. Các thiết lập mặc định cũ của bạn (giữ nguyên)
             rdServer.Checked = true;
             txtIp.Text = "127.0.0.1";
             txtPort.Text = "9000";
             UpdateUIForMode();
-            
-            // Thêm event handler để ẩn/hiện txtIP khi đổi mode
+
             rdServer.CheckedChanged += (s, e) => UpdateUIForMode();
             rdClient.CheckedChanged += (s, e) => UpdateUIForMode();
         }
@@ -159,7 +168,7 @@ namespace BasicChat
                 _stream.Write(data, 0, data.Length);
             }
 
-            AppendChat("Me: " + msg);
+            AppendChat(_currentUser + ": " + msg);
             txtMessage.Clear();
         }
 
