@@ -7,7 +7,7 @@
         "Action": "Start"
       },
       {
-        "Path": "..\\ServerLogConsole\\ServerLogConsole.csproj",
+        "Path": "ServerLogConsole\\ServerLogConsole.csproj",
         "Action": "Start"
       }
     ]

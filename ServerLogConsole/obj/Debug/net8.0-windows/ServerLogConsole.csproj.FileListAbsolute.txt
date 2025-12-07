@@ -14,3 +14,20 @@ C:\Users\Admin\Source\Repos\ServerLogConsole\obj\Debug\net8.0-windows\refint\Ser
 C:\Users\Admin\Source\Repos\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.pdb
 C:\Users\Admin\Source\Repos\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.genruntimeconfig.cache
 C:\Users\Admin\Source\Repos\ServerLogConsole\obj\Debug\net8.0-windows\ref\ServerLogConsole.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\bin\Debug\net8.0-windows\ServerLogConsole.exe
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\bin\Debug\net8.0-windows\ServerLogConsole.deps.json
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\bin\Debug\net8.0-windows\ServerLogConsole.runtimeconfig.json
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\bin\Debug\net8.0-windows\ServerLogConsole.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\bin\Debug\net8.0-windows\ServerLogConsole.pdb
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.Form1.resources
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.sourcelink.json
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\refint\ServerLogConsole.dll
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.pdb
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ServerLogConsole.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\LanChat - CloneFromGroup\ServerLogConsole\obj\Debug\net8.0-windows\ref\ServerLogConsole.dll

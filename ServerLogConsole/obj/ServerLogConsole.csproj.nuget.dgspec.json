@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj",
         "projectName": "ServerLogConsole",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Admin\\source\\repos\\LanChat - CloneFromGroup\\ServerLogConsole\\obj\\",
         "projectStyle": "PackageReference",
