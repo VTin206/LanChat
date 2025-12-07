@@ -11,7 +11,7 @@
         "projectName": "ServerLogConsole",
         "projectPath": "C:\\Users\\Admin\\Source\\Repos\\LanChat - CloneFromGroup\\ServerLogConsole\\ServerLogConsole.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\LanChat - CloneFromGroup\\ServerLogConsole\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\LanChat - CloneFromGroup\\ServerLogConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,16 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

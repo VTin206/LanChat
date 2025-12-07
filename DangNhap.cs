@@ -27,14 +27,28 @@ namespace BasicChat
             Close();
         }
 
+
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            Form1 form1 = new Form1();
-            form1.FormClosed += (s, args) => this.Close();
-            form1.Show();
-            this.Hide();
-        }
+            string user = txtName.Text.Trim();
+            string pass = txtPassword.Text.Trim();
 
+            DatabaseHelper db = new DatabaseHelper();
+
+            bool isValid = db.LoginUser(user, pass);
+
+            if (isValid)
+            {
+                MessageBox.Show("Đăng nhập thành công!");
+                Form1 mainForm = new Form1(user);
+                mainForm.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Sai tên đăng nhập hoặc mật khẩu.");
+            }
+        }
         private void lblSignIn_Click(object sender, EventArgs e)
         {
             DangKy dangKy = new DangKy();

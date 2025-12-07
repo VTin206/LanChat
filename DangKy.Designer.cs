@@ -87,6 +87,7 @@
             this.btnSignIn.TabIndex = 28;
             this.btnSignIn.Text = "Sign In";
             this.btnSignIn.UseVisualStyleBackColor = false;
+            this.btnSignIn.Click += new System.EventHandler(this.btnSignIn_Click);
             // 
             // txtVerify
             // 
@@ -173,11 +174,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font(".VnBahamasBH", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(139)))), ((int)(((byte)(187)))), ((int)(((byte)(255)))));
             this.label1.Location = new System.Drawing.Point(158, 90);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(163, 59);
+            this.label1.Size = new System.Drawing.Size(150, 46);
             this.label1.TabIndex = 18;
             this.label1.Text = "Sign In";
             // 
